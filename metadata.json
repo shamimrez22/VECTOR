@@ -1,0 +1,6 @@
+{
+  "name": "ICON VECTOR MASTER",
+  "description": "প্রফেশনাল ব্যাচ র‍্যাস্টার-টু-ভেক্টর (SVG) কনভার্টার, স্বয়ংক্রিয় আইকন শিট সেপারেটর এবং সেট অর্গানাইজার (Professional Batch Vectorization Software)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
